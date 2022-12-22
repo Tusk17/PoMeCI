@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#7AD1EE"
+    tools:context=".New_Note">
+
+    <EditText
+        android:id="@+id/edit_text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Titulo"
+        android:inputType="text"
+        android:autofillHints="xd" />
+
+    <TextView
+        android:id="@+id/text_view_URL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="URL"
+        android:textAppearance="@android:style/TextAppearance.Medium" />
+
+    <ImageButton
+        android:id="@+id/imageButtonSave"
+        android:background="@drawable/redondeado"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:srcCompat="@drawable/save_alt_black_24dp"
+        android:backgroundTint="@color/white"
+        android:layout_marginTop="24dp"
+        android:contentDescription="@string/ingresa_tus_datos_para_poder_acceder" />
+
+</LinearLayout>

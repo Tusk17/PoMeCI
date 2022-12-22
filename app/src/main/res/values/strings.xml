@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PoMeCI</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="ya_tienes_c">¿Ya tienes cuenta? <u>Accede desde aquí</u></string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="ingresa_tus_datos_para_poder_acceder">Ingresa tus datos para poder acceder</string>
+    <string name="email">Email</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="flecha">flecha</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="Acceder">Acceder</string>
+    <string name="no_tienes_c">¿No tienes cuenta? <u>Registrate</u></string>
+    <string name="Registro">Registro</string>
+    <string name="repetir">Repetir contraseña</string>
+    <string name="ingresa_datos_crear">Ingresa tus datos para crear tu usario</string>
+    <string name="cuenta_registrate">¿No tienes cuenta? Registrate</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="consejo_D_Dia">Consejo del día</string>
+    <string name="texto_D_Dia">Mantén tu organismo hidratado: se recomienda beber diariamente dos litros de agua. Beber agua te ayuda a eliminar toxinas, ayuda en la digestión y evita el estreñimiento.</string>
+    <string name="articuloSalud">Artículos de salud:</string>
+    <string name="Podcast">Podcast de salud:</string>
+    <string name="Dir_Especialist">Directorio de especialistas:</string>
+    <string name="proveedor_de_noticias">Seleccione un proveedor de noticias</string>
+    <string name="revista_panamericana">Revista panamericana salud pública</string>
+    <string name="el_espanol">El español</string>
+    <string name="onu_salud">ONU Salud</string>
+    <string name="el_universal">El Universal</string>
+    <string name="unam">UNAM</string>
+    <string name="milenio">Milenio</string>
+    <string name="excelsior">Excelsior</string>
+    <string name="national_institutes_of_health">National Institutes of Health</string>
+    <string name="la_busqueda_se_hara">Se buscará en esta pagina</string>
+    <string name="proveedor_de_podcast">Seleccione un proveedor de podcast</string>
+    <string name="google_podcast">Google Podcast</string>
+    <string name="podium_podcast">Podium Podcast</string>
+    <string name="tune_in">Tune In</string>
+    <string name="agendar_cita">Agendar cita</string>
+    <string name="sobre_mi">Sobre mí</string>
+    <string name="informacion_de_contacto">Información de contacto</string>
+    <string name="cedula_profesional">Cédula Profesional</string>
+    <string name="por_favor_escriba">Por favor escriba los siguientes datos</string>
+
+</resources>

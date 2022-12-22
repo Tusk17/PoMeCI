@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20070073293",
+    "project_id": "pomeci",
+    "storage_bucket": "pomeci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20070073293:android:27e11cb0039f3041117a84",
+        "android_client_info": {
+          "package_name": "com.example.pomeci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20070073293-te1id9suogj78k6mkor59rjujdu9sfj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjRhFRcgxkHCqSGnTa-ObmOVwPQyPDus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20070073293-te1id9suogj78k6mkor59rjujdu9sfj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
